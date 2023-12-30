@@ -12,7 +12,7 @@ body{
     margin-right: auto;
 
 
-    outline: 2px solid red;
+    
 
 }
 
@@ -20,7 +20,7 @@ body{
     .container{
     max-width: 768px;
 
-    outline: 2px solid red;
+  
 }
 }
 @media screen and (min-width: 1158px) {
@@ -29,7 +29,7 @@ body{
         padding-left: 15px;
         padding-right: 15px;
 
-        outline: 2px solid red;
+        
     }
 }
 
